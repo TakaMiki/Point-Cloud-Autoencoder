@@ -1,2 +1,2 @@
 # Point-Cloud-Autoencoder
-大学の卒業研究で使用
+大学の卒業研究で作成したプログラム
